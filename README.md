@@ -5,13 +5,13 @@
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
 - [Dataset](#dataset)
-- [Tools & Technologies](#tools--technologies)
-- [Features & Methods](#features--methods)
+- [Tools & Technologies](#tools-and-technologies)
+- [Features & Methods](#methods)
 - [Output](#output)
-- [How to Run the Project](#how-to-run-the-project)
+- [How to Run the Project](#how-to-run-this-project)
 - [Results & Conclusion](#results--conclusion)
-- [Future Improvements](#future-improvements)
-- [Author](#author) 
+- [Future Improvements](#future-work)
+- [Author](#👤author) 
 
 ---
 
