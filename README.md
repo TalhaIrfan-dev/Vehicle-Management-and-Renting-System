@@ -11,7 +11,7 @@
 - [How to Run the Project](#how-to-run-this-project)
 - [Results & Conclusion](#results--conclusion)
 - [Future Improvements](#future-work)
-- [Author](#👤-author) 
+- [Author](#-author) 
 
 ---
 
