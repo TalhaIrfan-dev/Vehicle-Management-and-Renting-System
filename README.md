@@ -11,7 +11,7 @@
 - [How to Run the Project](#how-to-run-this-project)
 - [Results & Conclusion](#results--conclusion)
 - [Future Improvements](#future-work)
-- [Author](#👤author) 
+- [Author](#👤-author) 
 
 ---
 
@@ -137,7 +137,7 @@ The program provides:
 ### Steps to Run
 1. **Clone the repository:**
     ```bash
-        git clone https://github.com/yourusername/VehicleRentalSystem-CPP.git
+        git clone https://github.com/TalhaIrfan-dev/Vehicle-Management-and-Renting-System.git
     ```
 2. **Navigate to the project directory**
 3. **Compile the source code:**
